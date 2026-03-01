@@ -1,0 +1,240 @@
+dish_id,dish_name,cuisine,spice_level,dietary_type,contain_seafood,main_ingredients,description
+1,Paneer Pulao,Indian,3,Veg,no,"Rice, Onions, Spices, Coriander, Mint Leaves, Paneer",
+2,Aloo Muri,Indian,2,veg,no,"Potatoes, Puffed Rice, Tamarind Water",
+3,"Spicy
+Molagapodi
+Chicken",Indian,5,non-veg,no,"Chicken,
+Spices,
+Ginger-Garlic Paste,
+Green Chillies,
+Curry Leaves,
+Coriander,
+Lemon",
+4,Matar Ki Kachori,Indian,3,veg,no,"Flour, Green peas, spices",
+5,Masala Bhatura,Indian,2,veg,no,"Flour,Semolina,Potatoes,curd,Coriander,Spices",
+6,"Matar Paneer 
+Butter Masala ",Indian,2,veg,no,"Paneer,Green peas,Tomato,Milk,Onion,Fresh cream
+,spices,cashew nuts",
+7,"Broccoli And 
+Paneer In Lemon
+Coriander Sauce ",Indian,1,veg,no,"Broccoli,Paneer, Chinese white sauce,Coriander dhania
+Lemon,spices",
+8,Meva Moodi,Indian,1,veg,no,"Puffed rice,Roasted almonds,Roasted pistachios,Honey
+Roasted cashew nuts,Salted raw peanuts,Grated jaggery,",
+9,Rajma Recipe,Indian,2,veg,no,"Rajma,Onion,Tomato,Green chillies,Garlic,Ginger,Spices
+Fresh cream",
+10,Dal Makhani,Indian,2,veg,no,"black lentils,Rajma,Onion,Tomato pulp,Butter , Cream, 
+Corriander, Green chillies,Spices",
+11,Kanda Poha,Indian,1,veg,no,"Beaten rice poha flakes,Onion,raw peanuts,green chillies
+curry leaves,spices,Nylon sev,coriander",
+12,Batata Bhaji,Indian,2,veg,no,"Potatoes,Onions,Garlic,Green chillies,Curry leaves,
+corriander,spices",
+13,"Maharashtrian 
+Chilla",Indian,2,veg,no,"Besan,Jowar,Onion,Tomato,Green chillies,Wheat flour
+corriander,spices",
+14,"Soya Vegetable 
+Pulao",Indian,3,veg,no,"Soy granules,long grain rice,carrot,green peas,onion
+green chillies,spices",
+15,"Dal Baati 
+Churma",Indian,2,veg,no,"wheat flour,Semolina,Onion,Tomato,Almonds
+Mixed dals chana dal, toor dal, moong dal, urad dal",
+16,Idli,Indian,1,veg,no,"Urad dal split black lentils, Fenugreek methi seeds,
+Parboiled rice ukda chawal,Thick beaten rice jada poha
+spices",
+17,Masala Dosa,Indian,2,veg,no,"Sona Masuri rice,Urad dal,Toor dal,Chana dal, potatoes
+Onion, Green chillies",
+18,veg momos,Indian,3,veg,no,"flour, Cabbage, Carrot, Onion, Garlic, 
+Ginger, Green chillies",
+19,Bhaji Pav Masala,Indian,3,veg,no,"Pav bread, Onion, Tomato, Capsicum 
+Pav bhaji masala, Butter, Coriander dhania ",
+20,Lemon Rasam,Indian,2,veg,no,"Toor dal, Tomato, Green chillies, red chillies
+Ginger,Curry leaves, Coriander dhania ",
+21,Onion Samber,Indian,3,veg,no,"onions, Toor dal, Tamarind, Tomato, Garlic, red chillies 
+Coriander dhania ",
+22,Paneer Kathi Roll ,Indian,3,veg,no,"Maida, Paneer, Curd, Onion 
+Capsicum,Tomato, Ginger & Garlic",
+23, Veg Mutton Biryani,Indian,3,veg,no,"Raw jackfruit, Basmati rice, Potato, Carrot, Onion, Curd 
+Coriander & Mint",
+24,Chilli Mushroom,Indian,3,veg,no,"Mushrooms, Corn flour, Maida  
+Garlic, Ginger, Capsicum, Spring onion ",
+25,Paneer Tikka,Indian,,veg,no,"Paneer ,Onion ,Tomato, Capsicum,Curd 
+Red chilli powder ,Ginger-garlic paste",
+26,Khara Masala Keema ,Pakistani,3,non-veg,no,"Oil,
+Beef mince, spices
+Ginger garlic paste, 
+Onion,
+Tomatoes, 
+Yogurt, Green coriander ",
+27,Chicken Changezi,Pakistani,3,non-veg,no,"Chicken, 
+Yogurt, spices 
+Ginger garlic paste,
+Lemon juice,
+Tomato puree, 
+Cashew nuts, onion paste,
+Full Cream Milk,
+Dairy Cream, 
+Dried fenugreek 
+Garam masala powder 1 tsp",
+28,White Karahi,Pakistani,3,non-veg,no,"Oil, spices 
+Onion,
+Garlic pods,
+Ginger pods, 
+Yogurt, 
+Chicken, 
+Cumin seeds,
+Onion puree,
+Dairy Cream ",
+30,Kofta Curry Masala,Pakistani,4,non-veg,no,"Oil,Onion,
+Ginger garlic paste, 
+Kofta masala powder, Yogurt, 
+Prepared kofta,
+Kewra water,spices",
+32,Shaljam Gosht,Pakistani,3,"veg, non-veg",no,"Oil, 
+Onion, 
+Beef,
+Ginger garlic paste,
+Turnip, spices ",
+33,Chicken Biryani,Pakistani,4,"veg, non-veg",no,"rice, spices 
+chicken,
+Lemon slices, 
+food color, 
+Oil, ",
+34,Hunzai Handi,Pakistani,3,non-veg,no,"Chicken boneless, spices
+Yogurt, Tikka masala,
+Ginger garlic paste ",
+35,Kali Mirch Mutton Karahi,Pakistani,4,non-veg,no,"Mutton, spices, black pepper, oil
+Ginger garlic paste,Yogurt,Ginger ",
+36,Masala Kaleji ,Pakistani,5,non-veg,no,"Oil,
+Onion paste,
+Ginger garlic paste,
+Tomato puree,
+Soaked kaleji,
+Yogurt,
+Green coriander ",
+37,Chicken Nihari ,Pakistani,4,non-veg,no,"Oil, spices,
+Chicken,
+Ginger garlic paste,
+Nihari masala,
+Paprika powder ",
+38,Chicken Yakhni Pulao,Pakistani,3,non-veg,no,"Oil,
+Onion,
+Black peppercorns,
+Cumin seeds, spices
+Reserved chicken,
+Yogurt,
+Chicken stock,
+rice,
+Brown rice ",
+39,Chatkhara Daal,Pakistani,3,veg,no,"Oil, spices
+Onion,
+Garlic,
+Ginger,
+Tomato,
+Moong daal,
+Masoor daal,
+Chaat masala powder,
+Green coriander",
+40,Mutton Paya,Pakistani,3,non-veg,no,"Oil,
+Onion paste,
+Ginger garlic paste,
+Tomato puree,
+Boiled paye
+Yogurt,
+Leftover paye stock,
+Ginger",
+41,Green Moong Dal,Pakistani,3,veg,no,"Daal moong, spices, oil,
+Onion,
+Tomato ",
+42,Lobia Keema,Pakistani,3,"veg, non-veg",no,"Oil, spices
+Onion,
+Beef mince,
+Ginger garlic paste,
+Tomato puree,Yogurt, 
+Boiled white beans, 
+Green coriander",
+43,Haleem,Pakistani,3,non-veg,no,"Wheat, barley, lentils, beef or chicken, ginger, garlic,
+ garam masala, fried onions",
+44,Chapli Kebab,Pakistani,4,non-veg,no,"Ground beef, coriander seeds, pomegranate seeds, 
+ tomato, onion, green chilli, egg",
+45,Aloo Keema,Pakistani,3,non-veg,no,"Ground beef, potatoes, tomato, onion, cumin,
+ chilli powder, coriander",
+46,Chana Masala,Pakistani,3,,no,"Chickpeas, tomato, onion, ginger, garlic, cumin, 
+coriander powder",
+47,Seekh Kebab,Pakistani,4,non-veg,no,"Ground beef or lamb, ginger, garlic, green chilli, coriander, 
+cumin, garam masala",
+48,Daal Chawal,Pakistani,2,veg,no,"Lentils, turmeric, cumin, onion, garlic, basmati rice",
+49,Kheer,Pakistani,1,veg,no,"Rice, milk, sugar, cardamom, nuts, saffron",
+50,Mutton Korma,Pakistani,4,non-veg,no,"Mutton, yogurt, fried onions, ginger, garlic, garam masala,
+ cardamom, oil",
+51,Chicken Jalfrezi,Pakistani,4,non-veg,no,"Chicken, bell peppers, onion, tomato, green chilli, 
+ginger, garlic, spices",
+52,Bhindi Masala,,2,veg,no,"Okra bhindi, onion, tomato, ginger-garlic, green chilli, 
+spices",
+53,Lahori Chargha,,4,non-veg,no,"Whole chicken, yogurt, garlic-ginger paste, 
+chilli powder, garam masala, lemon, oil",
+54,Shami Kebab,Pakistani,3,non-veg,no,"Ground beef or chicken, chana dal, ginger-garlic paste, whole spices, egg",
+55,İskender kebap,Turkish,3,non-veg,no,"Lamb doner, pide bread, tomato sauce, yogurt, butter, 
+spices",
+56,Karnıyarık,Turkish,3,non-veg,no,"Eggplant, minced meat, onion, tomato, garlic, parsley",
+57,Manti,Turkish,2,non-veg,no,"Dumplings, meat",
+58,Adana Kebab,Turkish,4,veg,no,"Ground lamb, red chilli flakes, paprika, salt, garlic, tail fat",
+59,Mercimek Çorbası,Turkish,1,non-veg,no,"Red lentils, onion, carrot, tomato paste, cumin, butter",
+60,Menemen,Turkish,1,non-veg,no,"Eggs, tomato, green pepper, olive oil, salt, chilli flakes",
+61,Çiğ Köfte (Veg),Turkish,3,non-veg,no,"Fine bulgur, tomato paste, chilli paste, onion, olive oil
+, spices",
+62,Kuru Fasulye,Turkish,2,non-veg,no,"White beans, onion, tomato paste, olive oil, garlic, pepper",
+63,Balık Ekmek,Turkish,1,non-veg,yes,"Grilled fish, bread, lettuce, onion, lemon, olive oil",
+64,İnegöl Köfte,Turkish,2,non-veg,no,"Ground beef, onion, breadcrumbs, salt, pepper
+, baking soda",
+65,Hamsi Tava,Turkish,2,non-veg,yes,"Anchovies, cornmeal, salt, lemon, oil, parsley",
+66,Tavuk Şiş,Turkish,2,non-veg,no,"Chicken cubes, yogurt, garlic, paprika, olive oil, lemon",
+67,Imam Bayıldı,Turkish,1,veg,no,"Eggplant, onion, tomato, garlic, olive oil, parsley",
+68,Ezogelin Soup,Turkish,2,veg,no,"Red lentils, bulgur, rice, tomato paste, mint, chilli flakes",
+69,Su Böreği,Turkish,2,veg,no,"Yufka sheets, cheese, egg, milk, butter, parsley",
+70,Künefe,Turkish,1,veg,no,"Kataifi pastry, cheese, sugar syrup, butter, pistachio",
+71,Baklava,Turkish,1,veg,no,"Phyllo dough, pistachio/walnut, butter, sugar syrup,
+ lemon, cloves",
+72,Hünkar Beğendi,Turkish,3,veg,no,"Lamb stew, eggplant purée, milk, butter, flour, tomato",
+73,Testi Kebabı,Turkish,3,veg,no,"Lamb or beef, tomato, garlic, peppers, butter, spices",
+74,Sac Kavurma,Turkish,3,veg,no,"Lamb or beef cubes, onion, peppers, tomato, garlic, oil",
+75,Çoban Salatası,Turkish,1,veg,no,"Tomato, cucumber, onion, parsley, olive oil, lemon",
+76,Kısır,Turkish,2,veg,no,"Fine bulgur, tomato paste, parsley, lemon juice, olive oil,
+ pomegranate molasses",
+77,Midye Dolma,Turkish,2,non-veg,yes,"Mussels, rice, onion, pine nuts, currants, spices",
+78,Tavuk Göğsü,Turkish,1,non-veg,no,"Milk, sugar, rice flour, shredded chicken breast, butter",
+79,Şakşuka,Turkish,2,veg,no,"Fried eggplant, tomato sauce, garlic, peppers, olive oil,
+ parsley",
+80,Pizza Margherita,Italian,1,veg,no,"Pizza dough, tomato sauce, mozzarella, basil, olive oil, salt",
+81,Pasta Carbonara,Italian,2,non-veg,no,"Spaghetti, eggs, Pecorino Romano, guanciale, black pepper",
+82,"Lasagna alla
+ Bolognese",Italian,2,non-veg,no,"Lasagna sheets, ground beef, tomato sauce, béchamel, Parmesan, onion",
+83,Risotto alla Milanese,Italian,1,veg,no,"Arborio rice, saffron, butter, Parmesan, onion, broth",
+84,"Spaghetti Aglio
+ e Olio",Italian,2,non-veg,no,"Spaghetti, garlic, olive oil, chilli flakes, parsley",
+85,"Pasta alla
+ Puttanesca",Italian,3,veg,no,"Spaghetti, tomatoes, olives, capers, anchovies, garlic",
+86,Fettuccine Alfredo,Italian,1,non-veg,no,"Fettuccine, butter, heavy cream, Parmesan, black pepper",
+87,Ossobuco,Italian,2,non-veg,no,"Veal shanks, white wine, tomato, onion, carrot, celery",
+88,Caprese Salad,Italian,1,veg,no,"Tomato, fresh mozzarella, basil, olive oil, salt",
+89,Gnocchi al Pesto,Italian,1,veg,no,"Potato gnocchi, basil pesto, Parmesan, garlic, olive oil",
+90,"Bruschetta 
+al Pomodoro",Italian,1,veg,no,"Bread, tomato, garlic, basil, olive oil",
+91,Minestrone,Italian,1,veg,no,"Beans, pasta, tomato, carrot, celery, zucchini",
+92,"Ravioli 
+Ricotta e Spinaci",Italian,1,veg,no,"Pasta dough, ricotta, spinach, Parmesan, nutmeg",
+93,Tiramisu,Italian,2,veg,no,"Ladyfingers, mascarpone, espresso, cocoa powder, eggs, sugar",
+94,Arancini,Italian,1,veg,no,"Arborio rice, mozzarella, breadcrumbs, egg, tomato sauce",
+95,Polenta,Italian,2,veg,no,"Cornmeal, water, butter, Parmesan, salt",
+96,Cacio e Pepe,Italian,1,veg,no,"Spaghetti, Pecorino Romano, black pepper, pasta water",
+97,"Parmigiana 
+di Melanzane",Italian,2,veg,no,"Eggplant, tomato sauce, mozzarella, Parmesan, basil",
+98,"Bistecca
+ alla Fiorentina",Italian,2,non-veg,no,"T-bone steak, olive oil, salt, black pepper, rosemary",
+99,Calzone,Italian,1,non-veg,no,"Pizza dough, mozzarella, tomato sauce, ham/salami, olive oil",
+100,Panzanella,Italian,2,veg,no,"Stale bread, tomato, cucumber, red onion, basil, olive oil",
+101,"Saltimbocca 
+alla Romana",Italian,1,non-veg,no,"Veal, prosciutto, sage, white wine, butter",
+102,Focaccia,Italian,2,veg,no,"Flour, yeast, olive oil, rosemary, salt, water",
+103,"Linguine alle 
+Vongole",Italian,2,non-veg,no,"Linguine, clams, garlic, white wine, parsley, olive oil",
+104,Cannoli,Italian,1,veg,no,"Pastry shells, ricotta, sugar, chocolate chips, pistachios",
